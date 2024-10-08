@@ -1,0 +1,48 @@
+body{
+    background-color: #1c1c1c
+}
+
+nav img{
+    margin-left: 100px;
+}
+
+nav div ul{
+    margin-right: 100px;
+    font-weight: bold;
+}
+
+.hero{
+    background-image: url("/Images/bg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.hero h1{
+    color: white;
+    display: flex;
+    margin-left: 20%;
+    margin-bottom: 10%;
+    font-size: 80px;
+    font-weight: bolder;
+    text-shadow: 50px;
+}
+
+.hero button{
+    margin-top: 5%;
+    margin-left: -30%;
+    font-size: 20px;
+    font-weight: bolder;
+   
+}
+
+footer{
+    background-color: orange;
+}
+
+#footext{
+    font-weight: bold ;
+    font-size: small;
+}
